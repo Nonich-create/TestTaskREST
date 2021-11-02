@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "serviceActions": {
+        "testtaskrest": "StartWithoutDebugging"
+      },
+      "commandVersion": "1.0"
+    }
+  }
+}
